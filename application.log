@@ -1,0 +1,10 @@
+2018-07-11 15:02:15.976 (PID: 81641) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2018-07-11 15:02:17.583 (PID: 81641) ERROR producer - Error creating stream: NetworkingError: connect ECONNREFUSED 198.199.92.59:443
+2018-07-11 15:07:50.507 (PID: 81681) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2018-07-11 15:07:52.107 (PID: 81681) ERROR producer - Error creating stream: NetworkingError: connect ECONNREFUSED 198.199.92.59:443
+2018-07-11 15:18:42.875 (PID: 81864) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2018-07-11 15:18:43.122 (PID: 81864) INFO producer - twitter stream is already created! Re-using it.
+2018-07-11 15:18:43.261 (PID: 81864) INFO producer - Current status of the stream is ACTIVE.
+2018-07-11 15:29:29.046 (PID: 81939) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2018-07-11 15:29:29.265 (PID: 81939) INFO producer - twitter stream is already created! Re-using it.
+2018-07-11 15:29:29.360 (PID: 81939) INFO producer - Current status of the stream is ACTIVE.
