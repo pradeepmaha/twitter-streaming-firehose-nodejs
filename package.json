@@ -7,7 +7,7 @@
     "start": "node app"
   },
   "dependencies": {
-    "aws-sdk": "^2.272.1",
+    "aws-sdk": "^2.814.0",
     "log4js": "^0.6.38",
     "twit": "^2.2.11"
   }
